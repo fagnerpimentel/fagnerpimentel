@@ -2,6 +2,9 @@
 
 [Fagner Pimentel](https://fagnerpimentel.github.io/)
 
+## Sites úteis
+[roadmap.sh](https://roadmap.sh/)
+
 <!--
 **fagnerpimentel/fagnerpimentel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
