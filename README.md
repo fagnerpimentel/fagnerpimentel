@@ -23,7 +23,7 @@
 <table align="center">
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=fagnerpimentel&theme=bear&title_color=ff3068?">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=fagnerpimentel&theme=bear&title_color=ff3068&show_icons=true">
     </td>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnerpimentel&theme=bear&hide_border=true">
