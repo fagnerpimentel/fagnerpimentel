@@ -49,6 +49,15 @@
 </div>
 
 
+Meu nome é [Fagner de Assis Moura Pimentel](https://github.com/FagnerPimentel-Academic). Atualmente eu coordeno a RoboCup@home Brazil Open.
+
+A competição [RoboCup@Home Brasil Open](https://github.com/RoboCupAtHomeLatinAmerica) visa desenvolver tecnologia de robôs de serviço e assistênca com alta relevância para futuras aplicações domésticas. Um conjunto de testes é utilizado para avaliar as habilidades e o desempenho dos robôs em um ambiente doméstico realista.
+
+Sou Bacharel em Sistemas de Informação pela [Universidade Estadual da Bahia (UNEB)](https://portal.uneb.br/), Mestre em Ciência da computação com ênfase em Visão computacional pela [Universidade Federal da Bahia (UFBA)](https://www.ufba.br/) e pela Universidade Estatual de [Feita de Santana (UEFS)](https://www.uefs.br/) e Doutor em Engenharia elétrica com ênfase em Robótica pelo [Centro Universitário FEI (FEI)](https://portal.fei.edu.br/) .
+
+Atualmente sou [Professor Universitário](https://github.com/FagnerPimentel-Academic) no Centro Universitário FEI, lecionando disciplinas de Desenvolvimento WEB, Desenvolvimento de Jogos, e Robótica.
+
+Mus hobbies atualmente são assitir musicais, cozinhar, jogar jogos antigos (16 bits), gosto de andar de moto, ler e colecionar tampinhas. Também estou tentando aprender coisas novas como datilografia e VIM e melhorar meu inglês e espanhol (em breve quero começar francês e japonês também). Gosto muito de conhecer comidas locais (comida de rua) nos lugares que vou e sempre tento ter novas experiências.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
