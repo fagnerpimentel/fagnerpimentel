@@ -1,8 +1,8 @@
 # Fagner de Assis Moura Pimentel
 
-Olá! Seja bem-vindo ao meu GitHub. 👋 Que bom te ver aqui! 😎
+Olá! Seja bem-vindo ao meu GitHub. 👋 Que bom te ver por aqui! 😎
 
-Eu sou Fagner Pimentel. Professor universitário, roboticista e pesquisador. Também trabalho com desenvolvimento web e desenvolvimento de jogos. Aqui você encontra algumas ferramentas que eu uso no meu trabalho:
+Eu sou **Fagner Pimentel**: professor universitário, roboticista e pesquisador. Também trabalho com **desenvolvimento web** e **desenvolvimento de jogos**. Aqui você encontra algumas ferramentas que fazem parte do meu dia a dia:
 
 <p align="center">
   <img alt="ROS" src="https://img.shields.io/badge/-ROS-22314e?style=flat-square&logo=ros&logoColor=white" />
@@ -16,13 +16,33 @@ Eu sou Fagner Pimentel. Professor universitário, roboticista e pesquisador. Tam
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-Eu sou Bacharel em Sistemas de Informação pela [Universidade Estadual da Bahia (UNEB)](https://portal.uneb.br/), Mestre em Ciência da Computação com ênfase em Visão Computacional pela [Universidade Federal da Bahia (UFBA)](https://www.ufba.br/) e pela [Universidade Estadual de Feira de Santana (UEFS)](https://www.uefs.br/) e Doutor em Engenharia Elétrica com ênfase em Robótica pelo [Centro Universitário FEI (FEI)](https://portal.fei.edu.br/).
+Sou **Bacharel em Sistemas de Informação** pela [UNEB](https://portal.uneb.br/), **Mestre em Ciência da Computação** (ênfase em Visão Computacional) pela [UFBA](https://www.ufba.br/) e [UEFS](https://www.uefs.br/), e **Doutor em Engenharia Elétrica** (ênfase em Robótica) pelo [Centro Universitário FEI](https://portal.fei.edu.br/). 🎓🤖
 
-Atualmente sou [Professor Universitário](https://github.com/FagnerPimentel-Academic) no Centro Universitário FEI, lecionando disciplinas de Desenvolvimento WEB, Desenvolvimento de Jogos e Robótica (Navegação de robôs, Manipuladores, Interface Homem-Robô).
+Atualmente sou [Professor Universitário](https://github.com/FagnerPimentel-Academic) no Centro Universitário FEI, lecionando disciplinas de:
 
-Atualmente eu também coordeno a competição [RoboCup@Home Brasil Open](https://github.com/RoboCupAtHomeLatinAmerica). Essa competição visa desenvolver tecnologia de robôs de serviço e assistência com alta relevância para futuras aplicações domésticas. Um conjunto de testes é utilizado para avaliar as habilidades e o desempenho dos robôs em um ambiente doméstico realista.
+- **Desenvolvimento Web** 💻
+- **Desenvolvimento de Jogos** 🎮
+- **Robótica** (Navegação de robôs, Manipuladores, Interface Humano-Robô) ⚙️
 
-Meus hobbies atualmente são assistir musicais, cozinhar, jogar jogos retrô (16 bits), gosto de andar de moto, leitura e colecionar tampinhas de cerveja. Também estou tentando aprender coisas novas como datilografia e VIM e melhorar meu inglês e espanhol (em breve quero começar francês e japonês também). Gosto muito de conhecer comidas locais (comida de rua) nos lugares que vou e sempre tento ter novas experiências (como pular de paraquedas 😁). Por fim, deixo aqui uma fotinha do meu gato, o Moqueca.
+Também sou coordenador da competição [**RoboCup@Home Brasil Open**](https://github.com/RoboCupAtHomeLatinAmerica), voltada ao desenvolvimento de robôs de serviço para ambientes domésticos. A competição avalia robôs em testes realistas de usabilidade e desempenho. 🏠🤖
+
+---
+
+### Meus hobbies:
+
+No tempo livre, curto:
+
+- Assistir **musicais** 🎭  
+- Cozinhar **receitas novas** 🍳  
+- Jogar **jogos retrô (16 bits)** 🕹️  
+- Andar de **moto** 🏍️  
+- **Leitura** 📖
+- **colecionar tampinhas de cerveja** 🍻  
+- Aprender coisas novas como **datilografia**, **VIM** e **idiomas** (inglês, espanhol… em breve francês e japonês também!) 🌍✍️  
+- Conhecer **comidas de rua** nos lugares por onde passo 🍜🌮  
+- Me aventurar com experiências únicas (tipo pular de paraquedas! ✈️)
+
+E claro, sou apaixonado pelo meu gato, o **Moqueca**. 🐈‍⬛
 
 ---
 
@@ -52,5 +72,5 @@ Meus hobbies atualmente são assistir musicais, cozinhar, jogar jogos retrô (16
 
 ### Principais organizações que contribuo:
 
-- [FagnerPimentel-Academic](https://github.com/FagnerPimentel-Academic)  
-- [RoboCupAtHomeLatinAmerica](https://github.com/RoboCupAtHomeLatinAmerica)
+- [**FagnerPimentel-Academic**](https://github.com/FagnerPimentel-Academic) 🎓  
+- [**RoboCupAtHomeLatinAmerica**](https://github.com/RoboCupAtHomeLatinAmerica) 🤖  
