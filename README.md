@@ -58,8 +58,8 @@ E claro, sou apaixonado pelo meu gato, o **Moqueca**. 🐈‍⬛
 ### Meus Status do GitHub:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fagnerpimentel&theme=bear&title_color=ff3068&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnerpimentel&theme=bear&hide_border=true" />
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=fagnerpimentel&theme=bear&title_color=ff3068&show_icons=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=pt-br" />
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnerpimentel&theme=bear&layout=donut&locale=pt-br" />
 </p>
 
 ---
