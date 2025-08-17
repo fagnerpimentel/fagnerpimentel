@@ -73,4 +73,6 @@ E claro, sou apaixonado pelo meu gato, o **Moqueca**. 🐈‍⬛
 ### Principais organizações que contribuo:
 
 - [**FagnerPimentel-Academic**](https://github.com/FagnerPimentel-Academic) 🎓  
-- [**RoboCupAtHomeLatinAmerica**](https://github.com/RoboCupAtHomeLatinAmerica) 🤖  
+- [**RoboCupAtHomeLatinAmerica**](https://github.com/RoboCupAtHomeLatinAmerica) 🤖
+- [**RoboCupAtHome**](https://github.com/RoboCupAtHome) 🤖
+
