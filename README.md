@@ -34,9 +34,11 @@ No tempo livre, curto:
 
 - Assistir **musicais** 🎭  
 - Cozinhar **receitas novas** 🍳  
-- Jogar **jogos retrô (16 bits)** 🕹️  
 - Andar de **moto** 🏍️  
+- Jogar **jogos retrô (16 bits)** 🕹️
+  - [Minha lista de jogos](https://stash.games/users/fpimentel) 
 - **Leitura** 📖
+  - [Minha lista de Leituras](https://www.goodreads.com/fpimentel)
 - **colecionar tampinhas de cerveja** 🍻  
 - Aprender coisas novas como **datilografia**, **VIM** e **idiomas** (inglês, espanhol… em breve francês e japonês também!) 🌍✍️  
 - Conhecer **comidas de rua** nos lugares por onde passo 🍜🌮  
